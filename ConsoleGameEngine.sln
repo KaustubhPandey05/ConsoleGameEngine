@@ -7,6 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleGameEngine", "Consol
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4361023-0985-4344-8D69-1BB375DD32CE}"
 	ProjectSection(SolutionItems) = preProject
+		ConsoleGameEngine\axis.obj = ConsoleGameEngine\axis.obj
 		ConsoleGameEngine\teapot.obj = ConsoleGameEngine\teapot.obj
 		..\..\..\Downloads\VideoShip.obj = ..\..\..\Downloads\VideoShip.obj
 	EndProjectSection
